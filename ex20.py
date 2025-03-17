@@ -1,3 +1,4 @@
+#Crie um programa que solicite três números do tipo float e, utilizando as funções built-in max() e min(), exiba qual deles é o maior e qual é o menor.
 n1 = float(input("Digite um número: "))
 n2 = float(input("Digite um número: "))
 n3 = float(input("Digite um número: "))
